@@ -11,4 +11,4 @@ COPY . .
 RUN pip install --no-cache-dir python-telegram-bot
 
 # Bot run karne ka command
-CMD ["python", "bot.py"]
+CMD ["python", "test.py"]
